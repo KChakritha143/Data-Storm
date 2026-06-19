@@ -122,7 +122,7 @@ node test-api.js
 
 https://data-hub-mongodb-api.onrender.com/
 
-# API Endpoints
+### API Endpoints
 
  - POST/posts
 
