@@ -120,7 +120,7 @@ node test-api.js
 ## LIVE DEMO
 - Backend API URL :
 
-https://data-hub-mongodb-api.onrender.com
+https://data-hub-mongodb-api.onrender.com/
 
 # API Endpoints
 
@@ -157,5 +157,3 @@ The test suite validates:
 ## Deployment LIVE URL
 
 https://data-hub-mongodb-api.onrender.com/
-
-## POST 
