@@ -117,6 +117,24 @@ Run integration tests:
 node test-api.js
 ```
 
+## LIVE DEMO
+- Backend API URL :
+
+https://data-hub-mongodb-api.onrender.com
+
+# API Endpoints
+
+ - POST/posts
+
+ https://data-hub-mongodb-api.onrender.com/posts
+
+ - GET/posts
+
+https://data-hub-mongodb-api.onrender.com/posts
+
+- DELETE /posts/:id
+
+https://data-hub-mongodb-api.onrender.com/posts/:id
 The test suite validates:
 
 * Database connection
@@ -134,3 +152,9 @@ The test suite validates:
 * Persistent NoSQL storage
 * REST API development
 * Automated API testing
+
+## Deployment LIVE URL
+
+https://data-hub-mongodb-api.onrender.com/
+
+## POST 
